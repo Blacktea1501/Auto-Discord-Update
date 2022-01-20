@@ -3,6 +3,6 @@ A script to auto update or install discord to the newest available version for l
 
 # How to use
 ```bash
-sudo chmod x+ discord-update.sh
+sudo chmod +x discord-update.sh
 sh discord-update.sh
 ```
