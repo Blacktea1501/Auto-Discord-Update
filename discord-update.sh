@@ -30,7 +30,7 @@ sudo apt-get install ./$tmpname
 # removing the temp .deb file
 
 rm $tmpname
-sudo apt-get autoremove
+
 
 echo
 echo Finished;
